@@ -6,6 +6,6 @@ PS C:\vvv\REACT\1\01.DUKUABI> npm install npm : 이 시스템에서 스크립트
 
 해결법: 
 
-터미널에 다음과 같은 문자를 입력한다.
+터미널에 다음과 같은 문자를 입력합니다
 Get-ExecutionPolicy
 Set-ExecutionPolicy RemoteSigned
