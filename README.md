@@ -1,5 +1,5 @@
 8SPRING BOOT를 사용하면서 모르거나 기록할 만한 문제를 기록하였습니다.
-한글 2020을 사용하였습니다
+한글 2020을 사용하였습니다.
 
 
 ayu,es7,live server,prettier,tailwind
